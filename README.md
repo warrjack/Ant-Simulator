@@ -41,15 +41,15 @@ git clone https://github.com/warrjack/Ant-Simulator.git
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Icon.JPG" />
+  <img src="https://github.com/warrjack/Ant-Simulator/tree/main/Screenshots/Icon" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Gameplay1.PNG" />
+  <img src="https://github.com/warrjack/Ant-Simulator/tree/main/Screenshots/Gameplay1.PNG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Gameplay2.PNG" />
+  <img src="https://github.com/warrjack/Ant-Simulator/tree/main/Screenshots/Gameplay2.PNG" />
 </p>
 
 ## Credits
