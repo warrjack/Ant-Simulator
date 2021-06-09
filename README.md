@@ -6,7 +6,7 @@ Ant Simulator is a small project of mine to grow my knowledge of AI. With this p
 | --------------- | -------- | ----------- |
 
 <p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Screenshot.png" />
+  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Icon.jpg" />
 </p>
 
 [:camera: See Screenshots](#screenshots)
@@ -41,15 +41,11 @@ git clone https://github.com/warrjack/Ant-Simulator.git
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Icon.JPG" />
+  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Gameplay1.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Gameplay1.PNG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Gameplay2.PNG" />
+  <img src="https://github.com/warrjack/Ant-Simulator/blob/main/Screenshots/Gameplay2.png" />
 </p>
 
 ## Credits
