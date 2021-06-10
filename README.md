@@ -1,6 +1,6 @@
 # Ant-Simulator
 
-Ant Simulator is a small project of mine to grow my knowledge of AI. With this project I plan to create a space for ants and the ability to draw food for them to find and bring back their home. To look around, the ants have different properties such as wonder strenght, movement speed, and others to change how the AI reacts and moves around in the environment. While searching the area, the ants also drop different pheromones to either lead them home or lead others to food.
+Ant Simulator is a small project of mine to grow my knowledge of AI. With this project I plan to create a space for ants and the ability to draw food for them to find and bring back their home. To look around, the ants have different properties such as wonder strenght, movement speed, pheromone strength, and others to change how the AI reacts and moves around in the environment. While searching the area, the ants also drop different pheromones to either lead them home or lead others to food.
 
 | [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
 | --------------- | -------- | ----------- |
